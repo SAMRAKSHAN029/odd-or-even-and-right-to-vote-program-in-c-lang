@@ -1,0 +1,1 @@
+# odd-or-even-and-right-to-vote-program-in-c-lang
